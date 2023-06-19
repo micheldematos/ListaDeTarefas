@@ -1,0 +1,85 @@
+/* Barra de menu */
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: grey;
+}
+
+#logo_home{
+    height: 40px;
+}
+
+/* Pagina inicial */
+#par_intro{
+    text-align: justify;
+}
+
+#sec1{
+    margin-top: 20vh;
+}
+
+/* Formulário Geral*/
+
+#form_cad{
+    margin-top: 15vh;
+}   
+
+.titulo_cadastrar{
+    margin-bottom: 20px;
+}
+
+.campo_descricao{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.campo_nome{
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.botao_cadastrar{
+    font-family: arial;
+    border: 0;
+    background-color: black;
+}
+
+.botao_cadastrar:hover{
+    background-color: #1B1B1B;
+}
+
+/* Tela de consulta */
+
+.adicionar{
+    margin-bottom: 20px;
+}
+
+#img_botao_edi{
+    height: 25px;
+}
+
+#img_botao_del{
+    height: 25px;
+}
+
+#img_botao_add{
+    height: 25px;
+}
+
+.exibir_tarf{
+    margin-top: 15vh;
+    margin-bottom: 4vh;
+}
+
+#texto_desc{
+    text-align: justify;
+}
+
+/* Tela de edição */
+
+#form_edi{
+    margin-top: 10vh;
+}  
